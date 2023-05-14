@@ -1,0 +1,5 @@
+This is the Human Resource Management Platform Development for Universities. 
+The purpose is to provide the convenient management for managers and staffs. 
+This project includes the management of staffs, salary, files, organizations and attendance, etc.
+
+The technologies we utilized are JSP, jQuery, HTML/CSS, JavaEE, Tomcat, DBUtils, Druid, MySQL, etc.
